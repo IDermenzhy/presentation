@@ -12,7 +12,7 @@ const items = [
     {name: 'useRef', route: '/ref'},
     {name: 'useMemo', route: '/memo'},
     {name: 'useCallback', route: '/callback'},
-    {name: 'Suspense', route: '/suspense'},
+    // {name: 'Suspense', route: '/suspense'},
 ]
 
 

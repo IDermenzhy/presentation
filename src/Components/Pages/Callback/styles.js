@@ -9,6 +9,13 @@ export const Container  = styled.div`
 export const Content  = styled.div`
   display: flex;  
   padding: 40px 20px;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
+  & span, p {
+    color: #a1a1a1;
+    font-size: 20px;
+  }
+  & input {
+  width: 300px;
+  }
 `
